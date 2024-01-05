@@ -1,0 +1,33 @@
+const myResume=[
+    {
+       "name":"ajay",
+       "mobile": 6382948773,
+    "email":"ajay.raja0903@gmail.com",
+    "degree": "B.E",
+    "location":{
+        "address":"3 Nattar street ATTur salem",
+        "postal code":636108,
+        "village":"thandavarayapuram",
+       "city":"Salem"
+    },
+    "education":[
+        {
+            "institution":"dr.mcet",
+            "dept":"EIE",
+            "BATCH":2024,
+            "cgpa":8.4,
+            "schoolings":"Jmhss",
+            "sslc percentage":88,
+            "hsc percentage":73,
+
+        },
+            
+    ],
+    "skills":[{
+        "programming":"caches,java,javascript",
+        "certification":"plc course in bosch rexroth,coursera certificate for c programming",
+
+    }]
+    }
+]
+console.log(myResume);
